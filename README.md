@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=gholtzap&icon=8&color=6)](https://visitcount.itsvg.in)
-
 <div align="center" >
 <div  style="display: inline-flex; align-items: center;">
 
