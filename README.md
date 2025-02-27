@@ -36,10 +36,6 @@ Teaching Assistant @ FIU | Data Structures & Algorithms <br><br> ![Java](https:/
 
 <hr>
 
-Web Developer @ FIU <br><br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
-
-<hr>
-
 ## Tech I Use:
 <h3> Languages </h3>
 
