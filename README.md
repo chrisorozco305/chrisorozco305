@@ -11,7 +11,7 @@
 </div>
 
 ## About Me:
-👋 Hi! My name is Christian Orozco, and I'm a Software Engineer at Funny Tales. <a href="https://www.christianorozco.com/" target="_blank">Visit my portfolio website</a> to learn more!
+👋 Hi! My name is Christian Orozco, and I'm a Unity Developer at Funny Tales.
 
 
 ## LinkedIn:
@@ -52,9 +52,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br>
 
-### Upcoming Projects:
-- FIU XR Tour
-    - Mixed Reality experience giving users a virtual tour of Florida Internation University using Unity and Gaussian Splatting.
 ### Past Projects:
 - Meta Museum (MIT Reality Hacks 2025)
     - Winner of "Best Lifestyle World with Meta Horizon Worlds, Presented by Meta" at MIT's Reality Hacks, Meta Museum is a virtual museum that came about from our love for art and wanting to make the typical museum experience more accessible, interactive, and collaborative.
